@@ -3,7 +3,7 @@
 
 *[Zur Startseite](index.html)*
 
-- [4. April 2018: Opencast](#opencast) *(lkiesow)*
+- [4. April 2018:  Opencast](#opencast) *(lkiesow)*
 - [12. April 2018: ?](#)
 - [12. April 2018: ?](#)
 - [12. April 2018: ?](#)
